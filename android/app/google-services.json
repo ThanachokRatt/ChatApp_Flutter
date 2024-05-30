@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077558937007",
+    "project_id": "flutterfastchat",
+    "storage_bucket": "flutterfastchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077558937007:android:70de5ac41bdf3ab8369b5a",
+        "android_client_info": {
+          "package_name": "com.thanachok.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVAP2w7pumPwbGct522LkCpmqpoo1E0w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
